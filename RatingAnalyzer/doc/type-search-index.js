@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"org.stats","l":"AnalyzerConfigurationException"},{"p":"org.stats","l":"RatingAnalyzer"}]
